@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="quem_somos.html">
+    <link rel="stylesheet" href="contato.html">
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <link rel="shortcut icon" href="trabalho/imagens/favicon.ico" type="image/x-icon">
+    <title>JM Viagens</title>
+</head>
+
+<body>
+    <header>
+        <div class="logo_contato">
+            <a href="index.html"><img src="trabalho/imagens/logo.png" alt="imagem_logo"></a>
+        </div>
+        <nav>
+            <div class="menu_contato">
+                <ul>
+                    <a href="index.html">Home</a>|
+                    <a href="quem_somos.html">Quem somos</a>|
+                    <a href="contato.html">Contato</a>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <div class="img_contato">
+        <img src="trabalho/imagens/contato.png" alt="imagem_contato">
+    </div>
+    <div class="form_contato">
+        <h2>E-mail:jmviagens@gmail.com</h2>
+        <form action="#">
+            <div class="form-group"> 
+                <label for="">Nome:</label>
+                <input class="form-control" type="text"><br>
+                <label for="">Sobrenome:</label>
+                <input class="form-control" type="text"><br>
+                <label for="">Telefone:</label>
+                <select class="form-control" id="fone" name="fone">
+                    <option value="residencial">Residencial</option>
+                    <option value="comercial">Comercial</option>
+                    <option value="celular">Celular</option>
+                    <option value="recado">Recado</option>
+                </select><br>
+                <label for="">E-mail:</label>
+                <input class="form-control" type="email" placeholder="usuario@gmail.com"><br>
+                <label for="">Sexo:</label>
+                <input type="radio" name="gender" value="male"> Masculino
+                <input type="radio" name="gender" value="male"> Feminino <br>
+                <label for="">Mensagem:</label><br>
+                <textarea class="form-control" name="" id="" cols="30" rows="10"></textarea><br>
+                <button class="btn btn-warning">Enviar</button>
+            </div>
+        </form>
+    </div>
+    <div class="footer_contato">
+        <p class="registro">Todos os direitos reservados</p>
+    </div>

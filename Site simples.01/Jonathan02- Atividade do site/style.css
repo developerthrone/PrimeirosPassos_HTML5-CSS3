@@ -1,0 +1,89 @@
+
+.logo{
+    float: left;
+    padding-left: 190px;
+}
+.logo_quemsomos{
+    float: left;
+    padding-left: 190px;
+}
+.logo_contato{
+    float: left;
+    padding-left: 190px;
+}
+.menu{
+    float:right;
+    padding-top: 35px;
+    padding-right: 222px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3vw;
+}
+.menu_quemsomos{
+    float:right;
+    padding-top: 35px;
+    padding-right: 222px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3vw;
+}
+.menu_contato{
+    float:right;
+    padding-top: 35px;
+    padding-right: 222px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3vw;
+}
+.img_principal{
+    padding-left: 190px;
+    max-width:100%;
+    height:auto;
+}
+.img_quemsomos{
+    padding-left: 190px;
+}
+.img_contato{
+    padding-left: 190px;
+}
+.texto{
+    padding-top: 30px;
+    padding-left: 190px;
+    padding-right: 220px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.texto_quemsomos{
+    padding-top: 30px;
+    padding-left: 190px;
+    padding-right: 220px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.form_contato{
+    padding-top: 30px;
+    padding-left: 190px;
+    padding-right: 220px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer{
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 190px; 
+    padding-right: 220px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer_quemsomos{
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 190px; 
+    padding-right: 220px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer_contato{
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 190px; 
+    padding-right: 220px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
